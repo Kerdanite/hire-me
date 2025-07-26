@@ -37,7 +37,7 @@ Must have :
 
 Nice to have :
 - Un environnement multi-culturel
-- Pouvoir faire monter équipes en compétences,
+- Pouvoir faire monter équipes en compétences
 
 ## **Comment me contacter ?**
 
