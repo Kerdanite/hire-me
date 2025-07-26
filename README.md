@@ -1,11 +1,13 @@
 <h1 align="center">Hello 👋, I'm Joffrey</h1>
 
-## Hire me
+# Hire me
+## Disponible pour rejoindre une entreprise avec vraie valeurs humaines en CDI
 
-- 🕵🏻‍♂️ I'm looking for a job as a senior backend developer / tech lead
-- 📍 I live in France right now, I am skilled at remote work
+- 🕵🏻‍♂️ Je recherche un job de backend developer / tech lead
+- 📍 Je vis en France, et je suis habitué au full Remote
 - ✍🏻 [My CV in English](https://github.com/Kerdanite/hire-me/blob/main/Cv__Truyen_Joffrey.net.en.pdf)
-- 📫 My email :  [truyen.joffrey@gmail.com](truyen.joffrey@gmail.com)
+- ✍🏻 [Mon CV en français](https://github.com/Kerdanite/hire-me/blob/main/Cv__Truyen_Joffrey.net.fr.pdf)
+- 📫 Mon adresse mail :  [truyen.joffrey@gmail.com](truyen.joffrey@gmail.com)
 
 # Mon GPS carrière
 
@@ -21,7 +23,7 @@
 - **Location:** Full remote
 - **Keywords**: .net, C#, Microservices, RabbitMQ, Tests, clean architecture
 
-## **Ce qui me repousse chez une boite,**
+## **Ce qui me repousse chez une boite**
 
 - Le CAC 40
 - Communication minimale, pas de considérations humaines
@@ -33,7 +35,7 @@
 Must have :
 - Une culture qui valorise l'autonomnie
 - Une culture de l’écrit et de l’asynchrone
-- Une culture de la sécurité psychologique
+- Une culture centrée sur l'humain, avec une bonne communication
 
 Nice to have :
 - Un environnement multi-culturel
