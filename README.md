@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Jean-Michel</h1>
+<h1 align="center">Hello 👋, I'm Joffrey</h1>
 
 ## Hire me
 
 - 🕵🏻‍♂️ I'm looking for a job as a senior backend developer / team lead
-- 📍 I live in Paris right now, I am skilled at remote work, I can move in another west european country
+- 📍 I live in France right now, I am skilled at remote work
 - ✍🏻 [My CV in English](https://github.com/jmfayard/hire-me/blob/main/CV%20Jean%20Michel%20EN.pdf)
 - 📫 My email :  [jmfayard@gmail.com](https://jmfayard.dev/contact/)
 - 📆 My availibilities : https://cal.com/jmfayard/virtual-cafe
