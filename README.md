@@ -9,7 +9,7 @@
 
 # Mon GPS carrière
 
-## Jean-Michel / Dev Backend Senior / Full Remote
+## Joffrey / Dev Backend Senior / Full Remote
 
 - **Qui?** Joffrey Truyen (38 ans), 13 ans d'expérience
 - **Role:** Senior Backend Engineer / Tech Lead
