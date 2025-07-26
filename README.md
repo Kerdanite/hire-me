@@ -17,7 +17,7 @@
 - **Formation:** Licence en informatique de gestion 
 - **Disponibilité:** 3 Mois
 - **Contrat:** CDI
-- **Rémunération:** 70-75k
+- **Rémunération:** 70-75k€
 - **Location:** Full remote
 - **Keywords**: .net, C#, Microservices, RabbitMQ, Tests, clean architecture
 
