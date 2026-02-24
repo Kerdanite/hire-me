@@ -2,7 +2,7 @@
 
 ## Joffrey / Dev Backend Senior / Tech lead / Full Remote
 
-- **Qui?** Joffrey Truyen (38 ans), 13 ans d'expérience
+- **Qui?** Joffrey Truyen (39 ans), 13 ans d'expérience
 - **Role:** Senior Backend Engineer / Tech lead Lead 
 - **Stack:** Spécialiste C# / .net  mais ouvert à TypeScript / java / ruby / …
 - **Formation:** Licence en informatique de gestion
@@ -32,5 +32,5 @@ Nice to have :
 
 ## **Comment me contacter ?**
 
-- [Mon CV en français](https://github.com/Kerdanite/hire-me/blob/main/Cv__Truyen_Joffrey.net.fr.pdf)
+- [Mon CV en français](https://github.com/Kerdanite/hire-me/blob/main/Cv__Truyen_Joffrey.2026.fr.pdf)
 - **M’écrire:** truyen.joffrey@gmail.com

@@ -6,7 +6,7 @@
 - 🕵🏻‍♂️ Je recherche un job de backend developer / tech lead
 - 📍 Je vis en France, et je suis habitué au full Remote
 - ✍🏻 [My CV in English](https://github.com/Kerdanite/hire-me/blob/main/Cv__Truyen_Joffrey.net.en.pdf)
-- ✍🏻 [Mon CV en français](https://github.com/Kerdanite/hire-me/blob/main/Cv__Truyen_Joffrey.net.fr.pdf)
+- ✍🏻 [Mon CV en français](https://github.com/Kerdanite/hire-me/blob/main/Cv__Truyen_Joffrey.2026.fr.pdf)
 - 📫 Mon adresse mail :  [truyen.joffrey@gmail.com](truyen.joffrey@gmail.com)
 
 # Mon GPS carrière
@@ -43,6 +43,6 @@ Nice to have :
 
 ## **Comment me contacter ?**
 
-- [Mon CV en français](https://github.com/Kerdanite/hire-me/blob/main/Cv__Truyen_Joffrey.net.fr.pdf)
+- [Mon CV en français](https://github.com/Kerdanite/hire-me/blob/main/Cv__Truyen_Joffrey.2026.fr.pdf)
 - **M’écrire:** truyen.joffrey@gmail.com
 
